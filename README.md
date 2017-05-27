@@ -1,4 +1,5 @@
 # 分享url
+* markdown语法:[markdown语法](http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-7)
 * zookeeper安装:[zookeeper安装](http://sqcjy111.iteye.com/blog/1741320)
 * dobbox:[dobbox](https://github.com/wosyingjun/beauty_ssm_dubbo)
 * icon图标:[iconfont](http://www.iconfont.cn)
